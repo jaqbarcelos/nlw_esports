@@ -4,7 +4,7 @@
 
 # 🎯 Objetivo
 
-Criar um assistente de IA para gamers utilizando tecnologias modernas da web, como HTML, CSS, JavaScript e a Gemini API, com foco em iniciantes ou profissionais em transição de carreira.
+Criar um assistente de IA para gamers utilizando tecnologias modernas da web, como HTML, CSS, JavaScript e a Gemini API.
 
 # 🛠 Tecnologias Utilizadas
 
